@@ -1,4 +1,4 @@
-# Shadow Smith (Computer Graphics Final Project — Spring 2026)
+# Shadow Smith Project
 
 A 2D puzzle-platformer built with **HTML5 Canvas + JavaScript** where **light creates playable shadows**.
 
